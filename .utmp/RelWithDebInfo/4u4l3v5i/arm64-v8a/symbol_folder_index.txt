@@ -1,0 +1,1 @@
+C:\Users\andri\Documents\UnityProjects\ARBloom_Unity6\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\4u4l3v5i\obj\arm64-v8a
